@@ -20,3 +20,4 @@ Press SPACE to shoot asteriods, breaking them apart into smaller pieces and even
 - Add end game/high score screen
 - Add new game screen to replay (current requires restarting the app)
 - Add powerups
+- Add improved physics for inter-asteroid collisions
